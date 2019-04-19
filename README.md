@@ -5,7 +5,7 @@
 Щоб встановити українську фонетичну розкладку, скопіюйте файли Львів.icns та Львів.keylayout у директорію /Library/Keyboard Layouts/ (для всіх користувачів) або ~/Library/Keyboard Layouts/ (для поточного користувача). Нова розкладка повинна одразу з'явитись у списку розкладок (в налаштуваннях клавіатури) під назвою Львів (щоб побачити її, вам спершу потрібно відкрити вкладку `others`).
 
 ## Звичайна розкладка
-![](https://github.com/alexbakus/ukrainian-phonetic-keyboard-lviv-layout/raw/master/screenshots/Львів - Normal.png)
+![]("https://github.com/alexbakus/ukrainian-phonetic-keyboard-lviv-layout/raw/master/screenshots/Львів - Normal.png")
 
 ## Розкладка з Shift
 ![](https://github.com/alexbakus/ukrainian-phonetic-keyboard-lviv-layout/raw/master/screenshots/Львів - Shift.png)
