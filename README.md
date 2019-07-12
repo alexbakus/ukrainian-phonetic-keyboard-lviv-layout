@@ -1,4 +1,4 @@
-# Ukrainian Phonetic Keyboard Lviv Layout for Mac OS (ZM Translit Keyboards, KOI8)
+# Ukrainian Phonetic Keyboard Lviv Layout for Mac OS (ZM Translit Keyboards)
 
 Українська фонетична розкладка клавіатури для Mac OS X, яка повністю повторює розкладку `Lviv Layout` від `ZM Translit Keyboards`. Фонетична розкладка полегшує набір українського тексту на клавіатурах з відсутніми кирилічними символами.
 
